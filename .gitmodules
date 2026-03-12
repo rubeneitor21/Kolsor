@@ -1,0 +1,3 @@
+[submodule "Kolsor-Server"]
+	path = Kolsor-Server
+	url = https://github.com/rubeneitor21/Kolsor-Server.git
